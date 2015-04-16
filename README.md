@@ -5,7 +5,7 @@
 
 ![Swift Snapshot](https://github.com/vidaaudrey/016-CustomTransitions/blob/master/_snapshot/snapshot.gif)
 
-![Swift Snapshot](https://github.com/vidaaudrey/016-CustomTransitions/blob/master/_snapshot/snapshot.png)
+![Swift Snapshot](https://github.com/vidaaudrey/016-CustomTransitions/blob/master/_snapshot/snapshot1.png)
 
 
 
