@@ -11,8 +11,8 @@
 
 
 
-** Known issues **: 
+**Known issues**: 
 *Folding does not perform exactly right. It may due to the computing time difference. I haven't been able to find the solution yet. 
 
-** Links**:
+**Links**:
 Inspired by an article from [AppCoda.com](http://www.appcoda.com/custom-view-controller-transitions-tutorial/)
