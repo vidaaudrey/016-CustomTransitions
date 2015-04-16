@@ -1,9 +1,10 @@
 # 016 - Swift Custom Transition 
 
-**Description**:  a iOS UIViewController custom transition demo. It supports transition for all for all directions. The dismiss transition is a custom folding transition which is not perfect yet.  
+**Description**:  a iOS UIViewController custom transition demo. It supports transitions for all directions. The dismiss transition is a custom folding transition which is not perfect yet.  
 
 
 ![Swift Snapshot](https://github.com/vidaaudrey/016-CustomTransitions/blob/master/_snapshot/snapshot.gif)
+
 
 ![Swift Snapshot](https://github.com/vidaaudrey/016-CustomTransitions/blob/master/_snapshot/snapshot1.png)
 
